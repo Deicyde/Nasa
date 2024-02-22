@@ -1,0 +1,1 @@
+Python script that uses Requests to downloads pictures from the NASA "Astronomy Picutre of the Day" API. Originally developed for a Computer Science class at West Nottingham Academy to showcase how to make API calls.
